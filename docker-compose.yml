@@ -1,6 +1,6 @@
 version: "1.0"
 services:
   bookings:
-    image: guna3179/psta-search-microservice:1.0.0
+    image: guna3179/psta-search-microservice:latest
     ports:
       - "8080:8080"
