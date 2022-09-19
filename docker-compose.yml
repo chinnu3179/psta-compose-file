@@ -4,7 +4,3 @@ services:
     image: guna3179/psta-search-microservice:1.0.0
     ports:
       - "8080:8080"
-  react-ui:
-    image: guna3179/psta-react:1.0.0
-    ports:
-      - "3001:3000"
